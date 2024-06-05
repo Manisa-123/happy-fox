@@ -1,0 +1,17 @@
+{
+    "All_or_Any": "any",
+    "Conditions": [
+        {
+            "Field_name": "From",
+            "Predicate": "contains",
+            "Value": "amazon.in",
+            "Action": "STARRED"
+        },
+        {
+            "Field_name": "Subject",
+            "Predicate": "contains",
+            "Value": "interview",
+            "Action": "STARRED"
+        }
+    ]
+}
